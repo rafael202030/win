@@ -24,6 +24,9 @@ class Configuration(object):
 
     EXPORT_DIR = ''
 
+    DRIVER_DIR_PATH = ''
+
+    DEFAULT_LINK = ''
 
 class MinerConfiguration (object):
 
